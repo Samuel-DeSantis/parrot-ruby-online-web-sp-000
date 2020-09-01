@@ -6,5 +6,4 @@ def parrot(input = "Squawk!")
     puts input
     return input
   end
-  (input === "Squawk!") ? (return "Squawk!") : (return input)
 end
