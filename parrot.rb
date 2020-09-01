@@ -1,8 +1,8 @@
 def parrot(input)
   unless input === nil
-    return "Squawk!"
+    puts "Squawk!"
   else
-    return input
+    puts input
   end
 
 end
