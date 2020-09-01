@@ -1,3 +1,3 @@
 def parrot(input = "Squawk!")
-  puts input
+  return input if !(input === "Squawk!")
 end
